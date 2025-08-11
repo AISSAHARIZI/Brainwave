@@ -1,7 +1,5 @@
-import React from 'react'
 import { roadmap } from './constants'
 import { check2, loading1 } from './assets/assets'
-import { Gradient } from './design/design/Hero'
 
 function Roadmap() {
   return (
